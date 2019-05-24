@@ -1,3 +1,6 @@
 [submodule "Praktomat"]
 	path = Praktomat
 	url = https://github.com/physikerwelt/Praktomat.git
+[submodule "safe-docker"]
+	path = safe-docker
+	url = https://github.com/nomeata/safe-docker.git
